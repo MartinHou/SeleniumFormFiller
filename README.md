@@ -6,12 +6,9 @@ Auto fill a form via selenium, using an IP pool.
 
 ## Get Started
 
-### Install firefox drivers
+### Install drivers
 
-Install firefox drivers [here](https://github.com/mozilla/geckodriver/releases)
-
-For Windows users, you may download [here](https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip)
-
+Install chrome drivers according to your Chrome version [here](https://chromedriver.chromium.org/downloads)
 
 ### Python requirements
 
